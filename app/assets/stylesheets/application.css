@@ -3,3 +3,16 @@
 .options {
  display: flex;
 }
+
+.incard {
+ background-color: #f8f9fa;
+}
+
+.card-body {
+ width: 200px;
+ border: solid lightgray 1px;
+}
+
+.more-info {
+ height: auto;
+}
